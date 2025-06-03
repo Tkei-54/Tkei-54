@@ -2,7 +2,7 @@
 - 
 - 👀 I am interested in Data Science.
 - 
-- 🌱 I am currently learning Python, Tableau, SQL.
+- 🌱 I am currently learning Python, Tableau, SQL, Statistical methods on python.
 - 
 - 💞️ I am looking to collaborate on Data Science projects, specifically the intersection of healthcare and data.
 - 
