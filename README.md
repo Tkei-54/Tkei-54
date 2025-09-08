@@ -7,6 +7,6 @@
 
 - **PROJECTS I HAVE WORKED ON**
 - 1. Predicting-H1N1-and-Seasonal-Flu-Vaccination-Uptake-Using-Machine-Learning
-- 2. Box-Office-Movie-Analysis 
-- 3. Tongi-Aviation-Data-Analysis
-- 4. Sentiment-Classification-of-Apple-and-Google-Tweets-Using-NLP
+- 2. Box-Office-Movie-Analysis - Identifying key trends in Hollywood film productions.
+- 3. Aviation-Data-Analysis - Identifying key trends in the aviation sector
+- 4. Sentiment-Classification-of-Apple-and-Google-Tweets-Using-NLP 
