@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Keith Tongi.
-- 👀 I am interested in Data Science. 
-- 🌱 I am currently learning Python, Tableau, SQL, Statistical methods on python. 
+- 👀 I am a medical doctor and a data scientist. 
+- 🌱 I know Python, Tableau, SQL, Statistical methods on python. 
 - 💞️ I am looking to collaborate on Data Science projects, specifically the intersection of healthcare and data. 
 - 📫 How to reach me: Send me a message on github.
 - ⚡ Fun fact: I am no fun, okay, maybe a little fun. Talk to me and find out :)
