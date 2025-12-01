@@ -5,7 +5,9 @@
 - 📫 How to reach me: Send me a message on github.
 - ⚡ Fun fact: I am no fun, okay, maybe a little fun. Talk to me and find out :)
 
-- **PROJECTS I HAVE WORKED ON**
+
+
+**PROJECTS I HAVE WORKED ON**
 - 1. Predicting-H1N1-and-Seasonal-Flu-Vaccination-Uptake-Using-Machine-Learning.
 - 2. Under5-Mortality-Model - Identifying and creating a mortality risk profile for children in Kenya under the age of 5.
 - 3. Box-Office-Movie-Analysis - Identifying key trends in Hollywood film productions.
